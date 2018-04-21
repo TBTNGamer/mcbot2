@@ -1,0 +1,16 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "description": "I'm MC, I'm the Main Character in a game called Doki Doki Literature Club!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TBTNGamer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "libsodium-wrappers": "^0.7.3",
+    "uws": "^9.147.0"
+  }
+}
